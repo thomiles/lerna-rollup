@@ -47,5 +47,6 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "gitHead": "99e8f521177f8433eab440460336049977f531bc"
 }
