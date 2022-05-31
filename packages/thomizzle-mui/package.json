@@ -48,5 +48,8 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "gitHead": "99e8f521177f8433eab440460336049977f531bc"
+  "gitHead": "fd481932b10a287deee04486ddc2fb5ad72b4381",
+  "publishConfig": {
+    "access": "public"
+  }
 }
