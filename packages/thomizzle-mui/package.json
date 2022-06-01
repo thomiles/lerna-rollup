@@ -1,6 +1,6 @@
 {
   "name": "@thomizzle/mui",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "",
   "scripts": {
     "rollup": "rollup -c",
