@@ -5,7 +5,7 @@
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
-    "storybook": "start-storybook -p 6006",
+    "storybook": "start-storybook -p 6005",
     "build-storybook": "build-storybook"
   },
   "author": "Thomas Heritier",
